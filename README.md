@@ -1,6 +1,7 @@
 # HDFC_3Statement
-Project Summary
-This model presents a structured financial analysis of HDFC Ltd., integrating historical data with projections. It consists of:
+
+This model presents a structured financial analysis of HDFC Ltd., integrating historical data with projections. 
+It consists of:
 
 3-Statement Model: A linked Income Statement, Balance Sheet, and Cash Flow Statement, ensuring financial consistency.
 
